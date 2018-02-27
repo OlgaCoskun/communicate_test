@@ -7,4 +7,4 @@
 
 Текстовый оригинал теста [здесь](http://www.syntone-spb.ru/library/article_syntone/content/4969.html)
 
-###### Автор программы: [Olga Coşkun](ovin999@gmail.com)
+##### Автор программы: Olga Coşkun
