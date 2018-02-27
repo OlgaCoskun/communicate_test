@@ -1,10 +1,10 @@
-require_relative "test"
-require_relative "result_printer"
+require_relative "lib/test"
+require_relative "lib/result_printer"
 
 puts "Тест \"Ваш уровень общительности\". Версия 3 (c) Olga Coskun\n\n"
 
-questions = 'questions.txt'
-results = 'results.txt'
+questions = 'data/questions.txt'
+results = 'data/results.txt'
 
 test = Test.new(questions)
 result_printer = ResultPrinter.new(results)
